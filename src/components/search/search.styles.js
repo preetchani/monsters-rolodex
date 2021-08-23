@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const SearchBar=styled.div`
-    padding-top: 30px;
+        
  input{
   border-radius: 30px;
   outline: none;
